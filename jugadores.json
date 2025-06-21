@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Carlos Martínez",
+        "edad": 18,
+        "posicion": "Ala",
+        "pierna_habil": "Izquierda",
+        "equipo": "Futsal Lions",
+        "descripcion": "Jugador rápido con gran visión de juego.",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "foto": "https://via.placeholder.com/150",
+        "contacto": "instagram.com/carlos_futsal"
+    },
+    {
+        "id": 2,
+        "nombre": "Luis Pérez",
+        "edad": 21,
+        "posicion": "Pivot",
+        "pierna_habil": "Derecha",
+        "equipo": "Tigers FS",
+        "descripcion": "Gran rematador y con experiencia en torneos nacionales.",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "foto": "https://via.placeholder.com/150",
+        "contacto": "instagram.com/luis_pivot"
+    },
+    {
+        "id": 3,
+        "nombre": "Miguel Santos",
+        "edad": 20,
+        "posicion": "Cierre",
+        "pierna_habil": "Derecha",
+        "equipo": "Águilas FS",
+        "descripcion": "Defensor sólido con buena salida de balón.",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "foto": "https://via.placeholder.com/150",
+        "contacto": "instagram.com/miguel_cierre"
+    }
+]
